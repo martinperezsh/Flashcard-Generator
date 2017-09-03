@@ -1,0 +1,2 @@
+
+Full: George is the first president, Clozed: George, Partial: is the first president-----Full: Abraham Lincoln is the 16th president, Clozed: 16th, Partial: Abraham lincoln is the ... president-----
